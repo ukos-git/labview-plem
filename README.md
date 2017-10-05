@@ -6,9 +6,10 @@ Nanotubes. In its current version the program it is used for microscopy of
 freely suspended carbon nanotube samples.
 
 # Credits
-PLEMv1 initial version by Tilman C. Hain
-PLEMv2 improved version by Tilman C. Hain, Daniel Zuleeg, Matthias J. Kastner
-PLEMv3 much more versatile version by Matthias J. Kastner
+
+* **PLEMv1** initial version by Tilman C. Hain
+* **PLEMv2** improved version by Tilman C. Hain, Daniel Zuleeg, Matthias J. Kastner
+* **PLEMv3** much more versatile version by Matthias J. Kastner
 
 contents in folder other are supplied via manufacturer's DEV examples see
 section installation.
