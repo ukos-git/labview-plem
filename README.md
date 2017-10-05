@@ -5,6 +5,8 @@ Excitation/Emission Maps. The technique is used for characterizing Carbon
 Nanotubes. In its current version the program it is used for microscopy of
 freely suspended carbon nanotube samples.
 
+files can be loaded to IgorPro with the [igor PLEM loader](https://github.com/ukos-git/igor-swnt-plem) found in my other repository.
+
 # Credits
 
 * **PLEMv1** initial version by Tilman C. Hain
