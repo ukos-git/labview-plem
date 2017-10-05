@@ -99,6 +99,10 @@ folder: *other/igor-exchange*
 folder: *other/andor*
 * atmcd32d.dll
 
+## xenics xeva
+
+install via labview library manager
+
 ## flaticon icons library
 
 Arrow Collection
