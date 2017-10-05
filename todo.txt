@@ -1,0 +1,20 @@
+verbesserungen plemv3
+ * Wavelength First Pixel (nm): -58.82 in ReadOut Mode should be 0.
+ * wl for last pixel wrong: 1392 --> 1391 ??
+ * something like "glue scale to image"
+ * nanostage show all three moving indicators for nanostage in a additional cluster.
+ * nkt default wavelength somewhere in the red at 645-655
+ --> setzen der position passiert nur, wenn measurement auf finished ist.
+ --> measurement-finished manuell setzen ?
+ oder
+ --> array-element nach +1 abgreifen und startbedingung für erste Koordinaten setzen.
+ Achtung: Measure sollte erst getriggert werden, wenn nanostage auf position 1.
+ 
+* save --> lastx is actually sizeX...
+* also save y pixel scaling!
+* reduce file size for measurements!
+* no wavelength or background for images
+* after loading in Auto-stage the laserspot is reset to zero/zero depending on stage position
+
+* measurement save --> case structure statt bool schreiben im false case
+
