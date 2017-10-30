@@ -9,7 +9,6 @@ verbesserungen plemv3
 * reduce file size for measurements (use compressed hdf5)
 
 2017-10
-* move velleman control to the left of the laser-on-off indicator
 * automatically activate image tab when camera is active
 * turn off velleman after measurement / align mode exits
 * do not wait for ready in align mode
