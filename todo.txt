@@ -16,6 +16,8 @@ verbesserungen plemv3
 
 2017-11
 * velleman on/off should depend on NKT when measuring
+* new folder for each autostage measurement
+* velleman not working
 
 
-!!! loading a file in auto-stage resets the coordinates
+!!! loading a file in auto-stage resets the laser coordinates (when clicking with mouse in graph)
