@@ -19,5 +19,8 @@ verbesserungen plemv3
 * new folder for each autostage measurement
 * velleman not working
 
+2017-12
+* autostage in timed mode is starting to measure and afterwards ready is set to false. correct by directly setting ready to false when coordinates have changed.
+
 
 !!! loading a file in auto-stage resets the laser coordinates (when clicking with mouse in graph)
