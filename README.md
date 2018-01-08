@@ -99,7 +99,12 @@ folder: *other/igor-exchange*
 ## andor monochromator/detector
 
 folder: *other/andor*
+* atmcd32d.bas 
 * atmcd32d.dll
+* ATMCD32D.H
+* atmcd32d.lib
+* ATMCD32D.pas
+* atmcd32d.vb
 
 ## xenics xeva
 
