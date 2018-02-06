@@ -24,3 +24,6 @@ verbesserungen plemv3
 
 
 !!! loading a file in auto-stage resets the laser coordinates (when clicking with mouse in graph)
+
+2017-01
+* save spectrometer serial number and detector model number to decide which grating/camera curves to use.
