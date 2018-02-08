@@ -20,6 +20,10 @@ Nanostage icons Designed by Freepik and distributed by Flaticon
 # Standalone Versions
 * https://github.com/ukos-git/labview-xenics-xeva
 
+# LabView User Interface
+Several modi can be used to acquire spectra. The following image shows the automatic stage-movement over the sample to previously marked locations. Each location holds a different carbon nanotube. Sample was prepared using the [swnt reactor](https://github.com/ukos-git/arduino-reactor)
+![the autostage in action](https://github.com/ukos-git/labview-plem/blob/master/images/autostage_in_action.png)
+
 # Hardware Setup
 
 * ANDOR Shamrock monochromator with attached Newton and iDus
