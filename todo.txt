@@ -27,3 +27,9 @@ verbesserungen plemv3
 
 2017-01
 * save spectrometer serial number and detector model number to decide which grating/camera curves to use.
+
+2018-04
+* include laser on/off in ready check
+* AutoStage not working in timed measurement: laser is turned off after autostage completes and not turned on again.
+* Timed Measurement mode (spectrum) is not turning on/off the laser even if NKT is set.
+* AutoStage is also not turning on the laser
