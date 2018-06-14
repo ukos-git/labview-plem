@@ -30,3 +30,6 @@ verbesserungen plemv3
 
 2018-04
 * include laser on/off in ready check
+* set ready to false before checking if ready
+* restructure user interface: NKT, Align mode to start button, auto-stage and plem as measurement programs below "timed measurement". rename timed measurement to measurement.
+* spectrum/camera/detector change should not change y-scaling from image to intensity (glue scaling to image)
